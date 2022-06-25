@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding: 0px;
+}
+body{
+    background-color: #79DAE8;
+}
+.saludo{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.caja1{
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #0AA1DD;
+    padding: 10px;
+    width: 70%;
+    text-align: center;
+    margin-left: 15rem;
+    border-radius: 25px;
+}
+.caja2{
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #EF9F9F;
+    padding: 10px;
+    width: 70%;
+    text-align: center;
+    margin-left: 15rem;
+    border-radius: 25px;
+}
+.caja3{
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #9772FB;
+    padding: 10px;
+    width: 70%;
+    text-align: center;
+    margin-left: 15rem;
+    border-radius: 25px;
+}
+.caja4{
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #F8CB2E;
+    padding: 10px;
+    width: 70%;
+    text-align: center;
+    margin-left: 15rem;
+    margin-bottom: 15px;
+    border-radius: 25px;
+}
+.cajita{
+    padding: 20px;
+    text-align: center;
+    border: 5px;
+}
+.desc{
+    padding: 1.5rem;
+    text-align: center;
+}
+.unidad{
+    padding: 1.5rem;
+    text-align: center;
+}
